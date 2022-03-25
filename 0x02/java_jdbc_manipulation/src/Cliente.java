@@ -13,7 +13,7 @@ public class Cliente {
     }
 
     public String getCPF() {
-        return CPF;
+        return cpf;
     }
 
     public String getRG() {
