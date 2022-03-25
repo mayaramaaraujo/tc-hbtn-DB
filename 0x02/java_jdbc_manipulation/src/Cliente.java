@@ -1,7 +1,7 @@
 public class Cliente {
     private String nome;
     private Integer idade;
-    private String CPF;
+    private String cpf;
     private String RG;
 
     public String getNome() {
